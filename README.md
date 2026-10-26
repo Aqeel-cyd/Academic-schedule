@@ -141,12 +141,7 @@ A cross-platform app (Android + Web) that helps students keep track of **quizzes
 
 Everything runs on free tiers.
 
-## 📸 Screenshots
 
-<!-- Add your screenshots to a "screenshots" folder and update the paths below -->
-| Login | Home | Admin panel |
-|---|---|---|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Admin](screenshots/admin.png) |
 
 ## 🗄 Data model
 
